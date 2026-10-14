@@ -1,6 +1,6 @@
 # ADR-0002: 状态管理采用 Pinia 双业务 store + 局部状态兜底
 
-> 状态：已接受 · 产出：flow-design-frontend（2026-10-12）· 关联：docs/deliverables/x-gulu/02-前端设计.md §3
+> 状态：已接受 · 产出：flow-design-frontend（2026-10-12）· 关联：docs/deliverables/chat-mvp/02-前端设计.md §3
 
 ## 背景
 

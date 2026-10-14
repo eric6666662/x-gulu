@@ -1,6 +1,6 @@
 # ADR-0004: 本地存储选 SQLite（纯 Go 驱动 + WAL + 单连接池）
 
-> 状态：已接受 · 产出：flow-design-backend（2026-10-12）· 关联：docs/deliverables/x-gulu/02-后端设计.md §2 §4
+> 状态：已接受 · 产出：flow-design-backend（2026-10-12）· 关联：docs/deliverables/chat-mvp/02-后端设计.md §2 §4
 
 ## 背景
 

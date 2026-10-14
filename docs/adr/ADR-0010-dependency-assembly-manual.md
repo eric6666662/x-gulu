@@ -1,6 +1,6 @@
 # ADR-0010: 依赖装配用手写显式构造（弃用 wire，不引任何 DI 工具）
 
-> 状态：已接受 · 产出：flow-init 补记（2026-10-14）· 取代：ADR-0009（已废弃）· 关联：docs/deliverables/x-gulu/02-后端设计.md §3
+> 状态：已接受 · 产出：flow-init 补记（2026-10-14）· 取代：ADR-0009（已废弃）· 关联：docs/deliverables/chat-mvp/02-后端设计.md §3
 
 ## 背景
 

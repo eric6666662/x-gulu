@@ -1,6 +1,6 @@
 /**
  * 所有网络细节的唯一出口：组件与 store 不直接碰 fetch。
- * 接口边界见 docs/deliverables/x-gulu/02-前端设计.md §2「api/client」。
+ * 接口边界见 docs/deliverables/chat-mvp/02-前端设计.md §2「api/client」。
  * 后续 SSE 流（任务 3）也加在这里，上层只换一个入口函数。
  */
 

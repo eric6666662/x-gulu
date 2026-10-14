@@ -1,6 +1,6 @@
 # ADR-0006: 上下文构建策略与"角色 vs 全局提示词"关系
 
-> 状态：已接受 · 产出：flow-design-backend（2026-10-12）· 关联：docs/deliverables/x-gulu/02-后端设计.md §6，解决 01-需求开放问题 #1、#3
+> 状态：已接受 · 产出：flow-design-backend（2026-10-12）· 关联：docs/deliverables/chat-mvp/02-后端设计.md §6，解决 01-需求开放问题 #1、#3
 
 ## 背景
 

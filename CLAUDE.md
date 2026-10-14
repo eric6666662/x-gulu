@@ -58,7 +58,7 @@ x-gulu/
 │   ├── 需求图.md           需求登记表（项目级）
 │   ├── 设计稿.md           视觉设计系统（flow-design-ui 维护）
 │   ├── adr/               9 篇架构决策记录（ADR-0001~0009，均已接受）
-│   └── deliverables/x-gulu/  00-构想、01-需求、02-前端/后端/ui 设计、02-ui原型.html
+│   └── deliverables/chat-mvp/  00-构想、01-需求、02-前端/后端/ui 设计、02-ui原型.html
 ├── .claude/skills/        flow-* 流水线技能
 └── .idea/                 IDE 配置
 ```

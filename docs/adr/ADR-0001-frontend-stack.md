@@ -1,6 +1,6 @@
 # ADR-0001: 前端技术栈选型（Vue 3 + Vite + 轻依赖组件策略）
 
-> 状态：已接受 · 产出：flow-design-frontend（2026-10-12）· 关联：docs/deliverables/x-gulu/02-前端设计.md
+> 状态：已接受 · 产出：flow-design-frontend（2026-10-12）· 关联：docs/deliverables/chat-mvp/02-前端设计.md
 
 ## 背景
 

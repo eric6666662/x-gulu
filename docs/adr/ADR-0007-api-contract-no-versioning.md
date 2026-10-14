@@ -1,6 +1,6 @@
 # ADR-0007: API 契约不做版本号，错误码全量显式定义
 
-> 状态：已接受 · 产出：flow-design-backend（2026-10-12）· 关联：docs/deliverables/x-gulu/02-后端设计.md §1
+> 状态：已接受 · 产出：flow-design-backend（2026-10-12）· 关联：docs/deliverables/chat-mvp/02-后端设计.md §1
 
 ## 背景
 

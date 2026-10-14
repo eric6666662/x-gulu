@@ -1,6 +1,6 @@
 # ADR-0008: 日志用标准库 `log/slog` + `lumberjack` 轮转（请求域 ctx 传递 + 密钥类型化打码）
 
-> 状态：已接受 · 产出：flow-init 补记（2026-10-14 首版定 slog；同日按"需要日志切割"补充轮转方案）· 关联：docs/deliverables/x-gulu/02-后端设计.md §0 §3 §4
+> 状态：已接受 · 产出：flow-init 补记（2026-10-14 首版定 slog；同日按"需要日志切割"补充轮转方案）· 关联：docs/deliverables/chat-mvp/02-后端设计.md §0 §3 §4
 
 ## 背景
 

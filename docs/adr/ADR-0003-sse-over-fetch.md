@@ -1,6 +1,6 @@
 # ADR-0003: 流式通道采用 POST + SSE over fetch（提议，待后端确认）
 
-> 状态：**已接受**（2026-10-12 由 flow-design-backend 确认，协议细节见 02-后端设计.md §1.3）· 产出：flow-design-frontend（2026-10-12）· 关联：docs/deliverables/x-gulu/02-前端设计.md §5
+> 状态：**已接受**（2026-10-12 由 flow-design-backend 确认，协议细节见 02-后端设计.md §1.3）· 产出：flow-design-frontend（2026-10-12）· 关联：docs/deliverables/chat-mvp/02-前端设计.md §5
 
 ## 背景
 

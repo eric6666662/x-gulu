@@ -1,6 +1,6 @@
 # ADR-0005: 模型服务商接入用自研 Adapter 抽象（不引 LLM 框架）
 
-> 状态：已接受 · 产出：flow-design-backend（2026-10-12）· 关联：docs/deliverables/x-gulu/02-后端设计.md §3
+> 状态：已接受 · 产出：flow-design-backend（2026-10-12）· 关联：docs/deliverables/chat-mvp/02-后端设计.md §3
 
 ## 背景
 
