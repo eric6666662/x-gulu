@@ -1,0 +1,29 @@
+{
+  "name": "xgulu-web",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "x-gulu 前端：Vue 3 + Vite，构建产物由 Go 的 embed.FS 打进单二进制",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "typecheck": "vue-tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "pinia": "^4.0.3",
+    "vue": "^3.5.44",
+    "vue-router": "^5.4.0"
+  },
+  "devDependencies": {
+    "@testing-library/vue": "^8.1.0",
+    "@types/node": "^26.6.5",
+    "@vitejs/plugin-vue": "^6.0.10",
+    "jsdom": "^30.1.2",
+    "typescript": "6.0.3",
+    "vite": "^8.3.4",
+    "vitest": "^5.0.4",
+    "vue-tsc": "^3.3.13"
+  }
+}

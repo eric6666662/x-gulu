@@ -1,0 +1,22 @@
+# 构建产物
+/bin/
+# 前端构建产物：由 pnpm build 生成，再经 web/embed.go 打进 Go 二进制，不入库。
+# 保留 .gitkeep —— 目录必须存在，//go:embed all:dist 才能编译（未构建时由后端返回 503 提示）
+/web/dist/*
+!/web/dist/.gitkeep
+/web/node_modules/
+
+# 运行时数据（SQLite 数据库与 WAL 文件）
+/data/
+*.db
+*.db-shm
+*.db-wal
+
+# 日志
+/logs/
+
+# 系统文件
+.DS_Store
+
+.idea
+
